@@ -6,9 +6,9 @@ Hey there! This is my little workshop where I play around with cryptographic pri
 These are just toy implementations I made for fun and learning - please don't use them for anything serious!
 
 ## What's inside? 🧩
-- Simple implementations of crypto primitives
-- Lots of comments explaining how things work
-- Educational examples and demos
+- Simple implementations of cryptographic primitives.
+- Lots of comments explaining how things work.
+- Educational examples and demos.
 - Probably some bugs...
 
 ## Why did I make this? 🤔
